@@ -1,4 +1,4 @@
-# kawyr
+# Opinion Survey
 
 > Nuxt.js project
 
@@ -18,5 +18,3 @@ $ npm start
 # Generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
