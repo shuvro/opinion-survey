@@ -1,0 +1,97 @@
+{
+  "activeStepId": 2,
+  "activeQuestionId": 4,
+  "votes": [],
+  "steps": [
+    {
+      "id": 1,
+      "type": "STEP_SHOW_SPLASH_SCREEN"
+    },
+    {
+      "id": 2,
+      "type": "STEP_ASK_QUESTION"
+    },
+    {
+      "id": 3,
+      "type": "STEP_SHOW_RESULT"
+    },
+    {
+      "id": 4,
+      "type": "STEP_SHOW_END_SCREEN"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "done": false,
+      "text": "What superhero ability would you rather have?",
+      "answers": {
+        "a": "Flying",
+        "b": "X-Ray Vision"
+      }
+    },
+    {
+      "id": 2,
+      "done": false,
+      "text": "Would you rather spend?",
+      "answers": {
+        "a": "100 days in 100 degree weather",
+        "b": "30 days in below 30 degrees"
+      }
+    },
+    {
+      "id": 3,
+      "done": false,
+      "text": "Would you rather be stranded on a desert island with only?",
+      "answers": {
+        "a": "A book of matches",
+        "b": "Radio tuned to MoneyWise"
+      }
+    },
+    {
+      "id": 4,
+      "done": false,
+      "text": "You are only allowed to watch one movie for the next year. Would you rather watch?",
+      "answers": {
+        "a": "Gone with the Wind",
+        "b": "Dumb and Dumber"
+      }
+    },
+    {
+      "id": 5,
+      "done": false,
+      "text": "Would you rather have?",
+      "answers": {
+        "a": "Unlimited free wi-fi wherever you go",
+        "b": "Unlimited free coffee at any coffee shop"
+      }
+    },
+    {
+      "id": 6,
+      "done": false,
+      "text": "Would you rather",
+      "answers": {
+        "a": "Never lose your phone again?",
+        "b": "Never lose your keys again?"
+      }
+    },
+    {
+      "id": 7,
+      "done": false,
+      "text": "Would you rather",
+      "answers": {
+        "a": "Do without internet for the rest of your life?",
+        "b": "Do without hot water for the rest of your life?"
+      }
+    },
+    {
+      "id": 8,
+      "done": false,
+      "text": "Would you rather",
+      "answers": {
+        "a": "Always be 10 minutes late?",
+        "b": "Always be 20 minutes early?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+@import "~/assets/scss/_vars.scss";
+@import "~/assets/scss/_utils.scss";
+@import "~animate.css";
+
+html,
+body {
+  color: #fafafa;
+  background-color: $grey;
+}
+
+.title,
+.subtitle {
+  color: $text !important;
+}
+
+.text--normal {
+  font-weight: normal;
+}
+
+.text--answer {
+  cursor: pointer;
+  max-width: 420px;
+}
+
+.text--question {
+  max-width: 560px;
+}
